@@ -4,19 +4,29 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+1 August 2017
 
 ### Student Name:  
-(First and Last Name)
+Emily Kissel
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The purpose of this project was to modify an index.html file to 
+create a movie application that displays the title, release date, 
+plot, original language, poularity rating, and movie poster of 
+any movie. This was achieved by using JQuery and AJAX methods to 
+parse JSON data from a 3rd party server, using an API, an application 
+programming interface. 
+
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://eak13b.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. In this lesson I learned about AJAX, Asynchronous JavaScript and XML 
+    technology, which allows data to be loaded a server without a browser 
+    page refresh
+2. I also learned about JSON, or JavaScript Object Notation and XML, an 
+    extension of the JavaScript language that is designed for human readability.
+3. Finally, I was introduced to an API Key, an application programming interface,
+    which is a set of instructions and standards used to access a Web-based software 
+    application or web tool.
